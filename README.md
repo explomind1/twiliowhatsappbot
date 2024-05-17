@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
    <img src="https://github.com/explomind1/twiliowhatsappbot/blob/main/d_SuSxWXmC.svg" />
 </p>
@@ -52,7 +49,7 @@ This repository contains the advanced codebase for a WhatsApp survey bot, levera
 
 4. **Run the server locally**:
    ```bash
-   uvicorn main:app --reload
+   uvicorn yourmainfilename:app --reload
    ```
 
 ### Local Testing
@@ -116,4 +113,3 @@ Begin by sending a WhatsApp message to the configured Twilio number. The bot wil
 - **Contextual Continuity**: Keeps track of conversation context effectively, even with brief user responses.
 - **Adaptive Response Management**: Smartly adjusts to varied user inputs to keep discussions on track.
 - **Exception Handling**: Expertly handles unexpected inputs or deviations without disrupting the conversation flow.
-
