@@ -2,12 +2,8 @@
 
 
 <p align="center">
-  <img src="[https://github.com/explomind1/LaHacksBlocky/assets/130941980/009f3584-9f06-47e0-ac48-dbc0a170a01f](https://github.com/explomind1/twiliowhatsappbot/blob/main/d_SuSxWXmC.svg)" alt="Blocky" style="width: 45%; display: inline-block;"/>
- 
+https://github.com/explomind1/twiliowhatsappbot/blob/main/d_SuSxWXmC.svg
 </p>
-
-
-
 
 # WhatsApp Survey Bot for AI Objectives Institute (AOI)
 
