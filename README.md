@@ -1,5 +1,14 @@
 
 
+
+<p align="center">
+  <img src="[https://github.com/explomind1/LaHacksBlocky/assets/130941980/009f3584-9f06-47e0-ac48-dbc0a170a01f](https://github.com/explomind1/twiliowhatsappbot/blob/main/d_SuSxWXmC.svg)" alt="Blocky" style="width: 45%; display: inline-block;"/>
+ 
+</p>
+
+
+
+
 # WhatsApp Survey Bot for AI Objectives Institute (AOI)
 
 This repository contains the advanced codebase for a WhatsApp survey bot, leveraging FastAPI, Firebase, Twilio, and OpenAI. The bot is expertly designed to conduct structured and engaging surveys over WhatsApp, collecting valuable insights on community and personal issues directly from users.
