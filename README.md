@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/explomind1/twiliowhatsappbot/blob/main/d_SuSxWXmC.svg" alt="Alt text" width="200"/>
+   <img src="https://github.com/explomind1/twiliowhatsappbot/blob/main/d_SuSxWXmC.svg" />
 </p>
 
 # WhatsApp Survey Bot for AI Objectives Institute (AOI)
